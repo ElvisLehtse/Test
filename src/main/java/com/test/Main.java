@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         NewFeature newFeature = new NewFeature();
         newFeature.calculator();
+        FeatureClass featureClass = new FeatureClass();
+        featureClass.feature();
     }
 }
