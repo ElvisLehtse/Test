@@ -11,5 +11,6 @@ public class NewFeature {
         System.out.println("Type another number");
         int j = scanner.nextInt();
         System.out.println("sum is: " + i + j);
+        System.out.println("cool");
     }
 }
